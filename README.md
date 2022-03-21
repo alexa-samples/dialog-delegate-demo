@@ -3,6 +3,9 @@ Focus on building the best voice experience, not error handling. The skill build
 
 The "Plan my trip" sample asks the user questions about an upcoming trip they'd like to take. As a part of this Alexa will gather information about when the trip will start as well as where they'd like to leave from and go to. You'll learn how to use the skill builder to create the intents, utterances, and slots for this scenario. This code sample will also show you how to delegate the process of gathering the required slots to Alexa.
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 ## What You Will Need
 *  [Amazon Developer Account](http://developer.amazon.com/alexa)
 *  [Amazon Web Services Account](http://aws.amazon.com/)
